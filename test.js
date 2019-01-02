@@ -1,4 +1,4 @@
-import loader from './index';
+const loader = require('./index');
 
 const testSource = `
 <div>

@@ -1,10 +1,10 @@
 {
   "name": "webpack-handlebars-whitespace-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack loader removes useless whitespaces from handlebars rendering output",
   "main": "index.js",
   "scripts": {
-    "test": "npx babel-node test.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -21,10 +21,5 @@
   "bugs": {
     "url": "https://github.com/sirJeo/webpack-handlebars-whitespace-loader/issues"
   },
-  "homepage": "https://github.com/sirJeo/webpack-handlebars-whitespace-loader#readme",
-  "devDependencies": {
-    "@babel/cli": "^7.2.3",
-    "@babel/core": "^7.2.2",
-    "babel-preset-import-export": "^1.0.2"
-  }
+  "homepage": "https://github.com/sirJeo/webpack-handlebars-whitespace-loader#readme"
 }
